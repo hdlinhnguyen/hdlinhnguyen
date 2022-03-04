@@ -1,4 +1,4 @@
-## Hi, I'm Linh (Xin chào, mình là Linh!)
+## Hi, I'm Linh (Xin chào, mình là Linh)
 
 I am stuyding and exploring the world. Currently, I am a student at ENS Paris-Saclay, Universite Paris-Saclay.
 
