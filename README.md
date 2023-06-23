@@ -1,4 +1,4 @@
-## Hello, I'm Linh!
+## Hello, I'm Linh! (xin chào, mình là Linh^^)
 
 I am interested in environmental econonmics and decision making process. Currently, I am a student at ENS Paris-Saclay, Université Paris-Saclay.
 
