@@ -1,6 +1,6 @@
 ## Hello, I'm Linh! (xin chào, mình là Linh)
 
-I am interested in decision-making processes and I am eager to learn new things. 
+I am interested in decision-making processes and environmental economics. 
 
 Currently, I am a CS student at Université Paris Dauphine. 
 
