@@ -2,7 +2,7 @@
 
 I am interested in decision-making processes (including game theory). 
 
-Currently, I am a CS student at Université Paris Dauphine. 
+I have backgrounds in economics and computer science. 
 
 I'm best reached via email _hdlinh.nguyen19@gmail.com_.
 
