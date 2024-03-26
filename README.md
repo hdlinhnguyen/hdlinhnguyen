@@ -1,6 +1,6 @@
 ## Hello, I'm Linh! (xin chào, mình là Linh)
 
-I am interested in decision-making processes (including game theory). 
+I am interested in decision-making processes. 
 
 I have backgrounds in economics and computer science. 
 
