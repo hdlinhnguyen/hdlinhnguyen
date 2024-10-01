@@ -1,4 +1,4 @@
-## Hello, I'm Linh! (xin chào, mình là Linh)
+## Hello, I'm Linh! 👋 (xin chào, mình là Linh)
 
 *I am looking for a PhD offer (CIFRE) or Operational research position at a company that can start from this October.*
 
