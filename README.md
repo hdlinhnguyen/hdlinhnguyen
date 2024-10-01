@@ -2,7 +2,7 @@
 
 *I am looking for a PhD offer (CIFRE) or Operational research position at a company that can start from this October.*
 
-I am interested in decision-making processes. 
+I am interested in decision-making processes. I have a background in Operational Research and Computer Science.
 
 I'm always open to interesting conversations and collaboration.
 
