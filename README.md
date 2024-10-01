@@ -4,10 +4,10 @@
 
 I am interested in decision-making processes. 
 
-I have backgrounds in economics and computer science. 
-
-I'm best reached via email _hdlinh.nguyen19@gmail.com_.
-
 I'm always open to interesting conversations and collaboration.
+
+### 📊 GitHub Stats:
+![Linh' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdlinhnguyen&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdlinhnguyen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
