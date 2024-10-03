@@ -1,8 +1,8 @@
 ## Hello, I'm Linh! 👋 (xin chào, mình là Linh)
 
-*I am looking for a PhD offer (CIFRE) or Operational research position at a company that can start from this October.*
+*I am looking for an opportunity to work as an Operations Research (Optimization) scientist and/or Data Analyst.*
 
-I am interested in decision-making processes. I have a background in Operational Research and Computer Science.
+I am interested in decision-making processes. I have a background in Operational Research+Computer Science and Economics.
 
 I'm always open to interesting conversations and collaboration.
 
