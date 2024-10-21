@@ -6,8 +6,12 @@ I am interested in decision-making processes. I have a background in Operational
 
 I'm always open to interesting conversations and collaboration.
 
-### 📊 GitHub Stats:
-![Linh' GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdlinhnguyen&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdlinhnguyen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
+<p aligh="left">
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=hdlinhnguyen&custom_title=Github%20Stats&show_icons=true&rank_icon=github&theme=midnight-purple" />
+  <img height="175px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=hdlinhnguyen&layout=compact&theme=midnight-purple" />
+</p>
+
+
 
 
