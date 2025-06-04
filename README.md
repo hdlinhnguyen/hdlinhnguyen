@@ -1,4 +1,4 @@
-## Hello, I'm Linh! 👋 (xin chào, mình là Linh)
+## Hello, I'm Linh! 👋 
 
 *I am looking for an opportunity to work as a Data Professional and/or Optimization scientist.*
 
