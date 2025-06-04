@@ -1,8 +1,8 @@
 ## Hello, I'm Linh! 👋 (xin chào, mình là Linh)
 
-*I am looking for an opportunity to work as an Operations Research (Optimization) scientist and/or Data Analyst.*
+*I am looking for an opportunity to work as a Data Professional and/or Optimization scientist.*
 
-I am interested in decision-making processes. I have a background in Operational Research+Computer Science and Economics.
+I am interested in decision-making processes. I have a background in Computer Science and Economics.
 
 I'm always open to interesting conversations and collaboration.
 
