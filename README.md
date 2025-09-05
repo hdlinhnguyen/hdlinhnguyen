@@ -2,9 +2,10 @@
 
 *I am looking for an opportunity to work as a Data Professional and/or Optimization scientist.*
 
-I am interested in decision-making processes. I have a background in Computer Science and Economics.
+- 🎓 I hold a master degree in <u>Computer Science</u> at PSL-Dauphine University and another master in  <u>Quant Economics</u> at ENS-University of Paris-Saclay, France.
+- 🔭 Currently focused on enhancing my <u>Machine Learning</u> skills through hands-on projects.
 
-I'm always open to interesting conversations and collaboration.
+I'm always open to interesting conversations and collaboration ;)
 
 
 ## 💻 Tech Stack:
