@@ -1,6 +1,6 @@
 ## Hello, I'm Linh! 👋 
 
-*🔭 I’m currently an **AI Engineer** in *Hanoi, Vietnam* 🇻🇳*
+*I’m currently an **AI Engineer** in *Hanoi, Vietnam* 🇻🇳*
 
 - 🎓 I hold a master degree in <u>Operational Research</u> at PSL-Dauphine University and another master in  <u>Quant Economics</u> at ENS-Paris-Saclay University, France.
 - 🔭 Currently focused on enhancing my <u>AI and Quant Finance</u> skills through hands-on projects.
